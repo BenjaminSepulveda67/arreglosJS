@@ -1,2 +1,2 @@
 Deploy: https://benjaminsepulveda67.github.io/arreglosJS/
-Github: 
+Github: https://github.com/BenjaminSepulveda67/arreglosJS
